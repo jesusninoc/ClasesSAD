@@ -1,2 +1,1 @@
-# ClasesSAD
-Clases de Seguridad y Alta Disponibilidad
+# Clases de Seguridad y Alta Disponibilidad
