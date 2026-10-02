@@ -1,4 +1,4 @@
-**Introducción a SAD**
+# Introducción a SAD
 
 - ¿De qué va la asignatura?
 - ¿Cómo voy a evaluar la asignatura?
