@@ -1,7 +1,3 @@
-# Adopción de pautas de seguridad informática
-
-## Visión global de la seguridad informática.
-
 **Introducción a SAD**
 
 - ¿De qué va la asignatura?
@@ -11,6 +7,10 @@
   - https://github.com/jesusninoc/ClasesSAD
   - https://github.com/jesusninoc/scripting-and-security-1
   - https://github.com/jesusninoc/scripting-and-security-2
+
+# Adopción de pautas de seguridad informática
+
+## Visión global de la seguridad informática.
 
 **Áreas de interés en seguridad**
 
@@ -39,18 +39,6 @@
 - Nuevas vulnerabilidades y Exploits / 0-days
 - Seguridad y técnicas de exp. de SCADA/ICS.
 - Seguridad en apps. y sistemas médicos.
-
-**Semana que viene**
-
-- c99
-- JSON
-
-**USO DE ADB**
-
-https://www.jesusninoc.com/2016/10/30/abrir-whatsapp-mediante-adb-a-traves-de-powershell/
-
-**Realizar varias búsquedas con Google Chrome en Android leyendo de un fichero y pulsar en un enlace mediante un script en la shell de Android con ADB**
-https://www.jesusninoc.com/2016/04/10/realizar-varias-busquedas-con-google-chrome-en-android-leyendo-de-un-fichero-y-pulsar-en-un-enlace-mediante-adb-a-traves-de-powershell/
 
 ## Fiabilidad, confidencialidad, integridad y disponibilidad.
 
@@ -775,6 +763,13 @@ New-LocalUser usuario6 -Password (ConvertTo-SecureString (Get-Random (1..100000)
 
 **Más sobre volcado de memoria**
 * https://www.google.com/search?q=jesusninoc+volcar+memoria
+
+**USO DE ADB**
+
+https://www.jesusninoc.com/2016/10/30/abrir-whatsapp-mediante-adb-a-traves-de-powershell/
+
+**Realizar varias búsquedas con Google Chrome en Android leyendo de un fichero y pulsar en un enlace mediante un script en la shell de Android con ADB**
+https://www.jesusninoc.com/2016/04/10/realizar-varias-busquedas-con-google-chrome-en-android-leyendo-de-un-fichero-y-pulsar-en-un-enlace-mediante-adb-a-traves-de-powershell/
 
 **Análisis forense**
 
