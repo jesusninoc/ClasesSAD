@@ -1,10 +1,8 @@
 # Adopción de pautas de seguridad informática
 - Visión global de la seguridad informática. 
-  - https://www.jesusninoc.com/07/05/ciberseguridad/
 - Fiabilidad, confidencialidad, integridad y disponibilidad. 
 - Elementos vulnerables en el sistema informático: hardware, software y datos.
 - Análisis de las principales vulnerabilidades de un sistema informático.
-  - https://www.jesusninoc.com/02/10/configuracion-de-dispositivos-y-sistemas-informaticos-bastionado-de-redes-y-sistemas/
 - Amenazas. Tipos:
   - Amenazas físicas.
   - Amenazas lógicas.
@@ -20,8 +18,6 @@
   - Establecimiento de políticas de contraseñas.
   - Políticas de almacenamiento. Medios de almacenamiento externo: DAS (Direct Attached Storage), NAS (Network Attached Storage), SAN (Storage Area Network). Copias de seguridad e imágenes de respaldo.
 - Análisis forense en sistemas informáticos.
-  - https://www.jesusninoc.com/02/05/analisis-forense/
-  - https://www.jesusninoc.com/10/01/analisis-forense-informatico/
 
 # Implantación de mecanismos de seguridad activa
 - Ataques y contramedidas en sistemas personales:
@@ -35,20 +31,15 @@
   - Seguridad en la conexión con redes públicas.
   - Pautas y prácticas seguras.
 - Seguridad en la red corporativa:
-  - https://www.jesusninoc.com/11/18/redes-informaticas/
   - Problemas de seguridad y vulnerabilidades en protocolos TCP/IP.
-    - https://www.jesusninoc.com/11/18/redes-informaticas/
   - Riesgos potenciales de los servicios de red.
   - Ataques en redes TCP/IP (suplantación, denegación de servicio…).
   - Seguridad en los accesos de red. Arranque de servicios. Puertos.
   - Descripción general de protocolos seguros a diferentes niveles: IPsec (Internet Protocol Security), SSL/TSL (Secure Sockets Layer/Transport Layer Security), PGP (Pretty Good Privacy), S/MIME (Secure / Multipurpose Internet Mail Extensions)...
   - Seguridad en los protocolos para comunicaciones inalámbricas.
   - Monitorización del tráfico en redes.
-    - https://www.jesusninoc.com/05/29/introduccion-wireshark/
-    - https://www.jesusninoc.com/02/06/rawcap-analizador-de-red/
   - Intentos de penetración. Intrusiones externas vs. Intrusiones internas. Seguridad perimetral.
 - Herramientas de seguridad y monitorización
-  - https://www.jesusninoc.com/02/11/listado-de-practicas-sobre-temas-de-seguridad/
   - Herramientas preventivas y paliativas (descifrar contraseñas, anti-rootkit, sniffers, escaneadores de puertos, detectores de vulnerabilidades, sistemas de detección de intrusos, recuperación de datos…)
   - Instalación y configuración básica.
 
@@ -68,7 +59,7 @@
   - Clasificación por ubicación: cortafuegos personales, cortafuegos para pequeñas redes SOHO (Small Office Home Office), cortafuegos corporativos.
   - Cortafuegos software vs. equipos hardware específicos.
 - Instalación y configuración de cortafuegos
-  - https://www.jesusninoc.com/08/06/instalacion-y-configuracion-de-cortafuegos-seguridad-y-alta-disponibilidad/. Ubicación.
+  - Ubicación.
   - Utilización de cortafuegos. Reglas de filtrado de cortafuegos.
   - Pruebas de funcionamiento. Sondeo.
   - Registros de sucesos de un cortafuegos.
@@ -138,16 +129,11 @@
 - Adopción de pautas de seguridad informática
 - Implantación de mecanismos de seguridad activa
 - Implantación de seguridad perimetral
-  - https://www.jesusninoc.com/02/09/diseno-de-redes-de-computadores-seguras-bastionado-de-redes-y-sistemas/
-  - https://www.jesusninoc.com/08/05/implantacion-de-tecnicas-de-acceso-remoto-seguridad-perimetral-seguridad-y-alta-disponibilidad/
 - Instalación y configuración de cortafuegos
 - Instalación y configuración de servidores «proxy»
-  - https://www.jesusninoc.com/08/07/instalacion-y-configuracion-de-servidores-proxy-seguridad-y-alta-disponibilidad/
 - Implantación de técnicas de acceso remoto. VPNs (Virtual Private Networks)
 - Implantación de soluciones de alta disponibilidad
-  - https://www.jesusninoc.com/tag/virtualizacion/
 - Legislación y normas sobre seguridad
-  - https://www.jesusninoc.com/tag/seguridad-y-alta-disponibilidad/
 
 --------------
 
